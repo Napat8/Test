@@ -1,0 +1,3 @@
+*** Variables ***
+
+${Seleniume}   ซีลีเนียม
